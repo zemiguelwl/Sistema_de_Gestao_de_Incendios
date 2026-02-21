@@ -1,0 +1,17 @@
+# IDE
+.idea/
+*.iml
+
+# Build
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
