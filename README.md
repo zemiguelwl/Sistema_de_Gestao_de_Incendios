@@ -428,7 +428,7 @@ Para visualizar no browser:
 
 ## 👥 Autores
 <br>
-- José Carneiro
+- José Carneiro <br>
 
 | Campo            | Informação                                     |
 |------------------|------------------------------------------------|
