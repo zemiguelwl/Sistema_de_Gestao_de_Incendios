@@ -429,7 +429,7 @@ Para visualizar no browser:
 ## 👥 Autores
 <br>
 - José Carneiro 
-<br>
+  
 
 | Campo            | Informação                                     |
 |------------------|------------------------------------------------|
