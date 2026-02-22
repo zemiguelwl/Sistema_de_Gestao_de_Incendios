@@ -10,7 +10,6 @@
 - [Arquitetura do Sistema](#-arquitetura-do-sistema)
 - [Estrutura de Ficheiros](#-estrutura-de-ficheiros)
 - [Modelo de Dados](#-modelo-de-dados)
-- [Como Compilar e Executar](#-como-compilar-e-executar)
 - [Persistência de Dados](#-persistência-de-dados)
 - [Sistema de Logs](#-sistema-de-logs)
 - [Relatórios Disponíveis](#-relatórios-disponíveis)
