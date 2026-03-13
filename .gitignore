@@ -30,7 +30,7 @@ build.ninja
 *.out
 *.app
 *.elf
-LP_8220942
+SGI
 
 # ===========================================================================
 #  Dados em runtime — não versionar ficheiros gerados pela aplicação
