@@ -12,7 +12,7 @@
  * O mecanismo baseia-se em médias estatísticas de intervenções
  * semelhantes (mesmo tipo de ocorrência e mesma prioridade).
  *
- * @author José (8220942)
+ * @author José
  * @date 2024
  * @version 2.0
  */

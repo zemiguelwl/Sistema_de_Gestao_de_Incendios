@@ -12,7 +12,7 @@
  * Cada entidade é persistida num ficheiro separado para permitir
  * carregamento e gravação independentes.
  *
- * @author José (8220942)
+ * @author José
  * @date 2024
  * @version 2.0
  */

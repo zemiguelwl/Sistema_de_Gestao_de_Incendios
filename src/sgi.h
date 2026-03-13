@@ -22,7 +22,7 @@
  *           └── intervencoes.h → tipos_comuns.h
  * @endcode
  *
- * @author José (8220942)
+ * @author José
  * @date 2024
  * @version 2.0
  */

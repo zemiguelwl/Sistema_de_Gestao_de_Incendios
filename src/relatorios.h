@@ -17,7 +17,7 @@
  * Todos os relatórios operam sobre dados em memória (read-only)
  * e apenas consideram registos ativos (ativo == 1).
  *
- * @author José (8220942)
+ * @author José
  * @date 2024
  * @version 2.0
  */

@@ -17,7 +17,7 @@
  *       equipamentos.h, etc.) mas implementados neste ficheiro para
  *       centralizar as implementações e evitar duplicação de código.
  *
- * @author José (8220942)
+ * @author José
  * @date 2024
  * @version 2.0
  */

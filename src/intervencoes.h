@@ -9,7 +9,7 @@
  * relacionadas com intervenções, incluindo associação de bombeiros e equipamentos,
  * gestão de estados e coordenação com ocorrências.
  *
- * @author José (8220942)
+ * @author José
  * @date 2024
  * @version 2.0
  */

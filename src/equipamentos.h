@@ -8,7 +8,7 @@
  * Este módulo é responsável por todas as operações CRUD (Create, Read, Update, Delete)
  * relacionadas com equipamentos que podem ser alocados a intervenções.
  *
- * @author José (8220942)
+ * @author José
  * @date 2024
  * @version 2.0
  */
@@ -25,7 +25,7 @@
  * @brief Tipos de equipamento disponíveis no sistema.
  */
 typedef enum {
-    VEICULO,      /**< Viaturas (ambulâncias, autotanques, etc.)    */
+    VEICULO,      /**< Viaturas (ambulâncias, etc.)    */
     MANGUEIRA,    /**< Mangueiras de combate a incêndio             */
     RESPIRADOR    /**< Equipamento de proteção respiratória         */
 } TipoEquipamento;

@@ -9,7 +9,7 @@
  * Este ficheiro deve ser incluído por todos os módulos de entidade.
  * Não contém definições de entidades específicas nem do contexto global.
  *
- * @author José (8220942)
+ * @author José
  * @date 2024
  * @version 2.0
  */

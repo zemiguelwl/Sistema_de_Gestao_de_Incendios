@@ -8,7 +8,7 @@
  * Este módulo é responsável por todas as operações CRUD (Create, Read, Update, Delete)
  * relacionadas com ocorrências de incêndio registadas no sistema.
  *
- * @author José (8220942)
+ * @author José
  * @date 2024
  * @version 2.0
  */
