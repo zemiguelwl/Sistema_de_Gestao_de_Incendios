@@ -31,12 +31,6 @@ O **Sistema de Gestão de Incêndios (SGI)** é um projeto em linguagem **C** de
 O projeto foi desenvolvido seguindo boas práticas de engenharia de software, nomeadamente **modularização**, **memória dinâmica**, **persistência de dados em ficheiros**, **validação de entradas** e **registo de ações (logs)**.
 
 ---
-
-⚠️ Este projeto foi originalmente desenvolvido durante o primeiro ano da licenciatura.
-
-Atualmente está a ser melhorado gradualmente, à medida que aplico e aprofundo boas práticas de engenharia de software.
-
----
 ## ✅ Funcionalidades
 
 ### Gestão de Ocorrências
@@ -435,10 +429,7 @@ Criar intervenção
 | Campo            | Informação                                     |
 |------------------|------------------------------------------------|
 | **Curso**        | Licenciatura em Engenharia Informática         |
-| **Instituição**  | ESTG · Politécnico do Porto                   |
+| **Instituição**  | ESTG · Politécnico do Porto                    |
 | **UC**           | Laboratório de Programação                     |
 | **Ano letivo**   | 2025/2026                                      |
 
----
-
-> *Projeto desenvolvido para fins académicos no âmbito da avaliação em período letivo da UC de Laboratório de Programação.*
